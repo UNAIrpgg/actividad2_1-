@@ -145,3 +145,5 @@ Una vez acabado los cambios los subimos a la cuenta de github con:
 ` `**git push origin gh-pages**  
 
 Nota: Recuerda que podrás acceder al sitio a través de la siguiente URL: https:**//tu\_cuenta\_github.github.io/myblog/**
+
+URL de los posts (pagina): https://unairpgg.github.io/myblog/
